@@ -1,3 +1,3 @@
 # Agile
 
-Units with presentations, labs + resources
+Intro to Agile, Jira, Workshop 1 
