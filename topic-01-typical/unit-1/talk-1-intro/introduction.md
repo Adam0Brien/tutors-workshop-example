@@ -1,8 +1,4 @@
 Agile Slides
 
-A short summary of the talk, no more than two sentences.
+Agile and scrum presentation.
 
-
-New content added
-- Here is a bullet point
-    - Nested bullet
