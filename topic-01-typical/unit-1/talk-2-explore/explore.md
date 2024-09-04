@@ -1,3 +1,3 @@
 Jira Slides
 
-Provide a short summary, perhaps supported by a representative image.
+Introduction to Jira, a powerful tool for Agile project management.
