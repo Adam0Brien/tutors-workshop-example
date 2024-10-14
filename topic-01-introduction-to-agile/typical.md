@@ -1,3 +1,3 @@
-# Intro to Agile
+# Introduction to Agile
 
-Agile is a flexible and collaborative project management approach that focuses on delivering incremental value through iterative development and continuous feedback.
+This chapter provides a foundational understanding of Agile, covering its history, core mindset, and the benefits it offers to teams and organizations.
