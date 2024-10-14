@@ -1,2 +1,0 @@
-# Scrum Methodology
-Scrum is a lightweight framework that helps teams work together. It encourages teams to learn through experiences, self-organize while working on a problem, and reflect on wins and losses to improve continuously.
